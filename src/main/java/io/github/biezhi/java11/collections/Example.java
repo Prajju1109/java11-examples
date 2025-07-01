@@ -46,6 +46,7 @@ public class Example {
 
         // 快速创建一个 Set<String>
         Set<String> bar = Set.of("我", "可能", "是个", "假的", "程序员");
+        String S="hello";
 
     }
 
